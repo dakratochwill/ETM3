@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Krub|Source+Sans+Pro:300|600');
+@import url('https://fonts.googleapis.com/css?family=Krub|Source+Sans+Pro:300');
 
 body {
     font-family: 'Krub', sans-serif;
@@ -298,4 +298,15 @@ ul li {
 
 .table td  {
     max-width: 500px;
+}
+
+.news .title {
+    font-size: 25px;
+}
+
+.news .date {
+    font-size: 18px;
+    border: none;
+    color: #333;
+    padding-left: 0px;
 }
